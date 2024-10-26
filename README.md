@@ -38,6 +38,7 @@ The initial step involved cleaning and integrating the datasets to ensure accura
 5. You can find the **Dataspark.sql File** where I have written 10 SQL Queries to extract key insights from the data.
 6. You can find the **DataSpark.Project_2 File** where I have done Project.
 7. You can find the **DATASPARK.dbms File** where I have attached the copy of my Powerbi Dashboard Analysis.
-
+8. You can find the **Data Spark Report File** where i have documented my project.
+   
 ### CONCLUSION
 This project has demonstrated the power of data-driven decision-making and the potential benefits of leveraging data analytics to inform business strategies. As we continue to refine our analytical approaches and incorporate new data sources, we can further enhance our understanding of the business and identify even more opportunities for improvement and growth.
